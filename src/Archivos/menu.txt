@@ -1,0 +1,24 @@
+00001;CocaCola;4000
+00002;Limonada;5000
+00003;Limonada cerezada;6000
+00004;Club colombia;5000
+00005;Corona;6000
+00006;Agua sin gas;3000
+00007;Agua con gas;3500
+00008;Agua de panela;2000
+10000;Ajiaco;9000
+20000;Caldo de costilla;9000
+30000;Punta gorda;12000
+40000;Pollo en Champiñones;18000
+50000;Spaghetti a la carbonara;12000
+60000;Spagetti bolognesa;12000
+70000;Alitas BBQ;13000
+80000;Paella;18000
+00100;Pudin de chocolate;5000
+00200;Flan de caramelo;7000
+00300;Napoleon;8000
+00400;Red Velvet;9000
+00500;Tres leches;7000
+00600;Pudin de vainilla;5000
+00700;Cheesecake oreo;9000
+00800;Brownie con helado;9000

@@ -1,0 +1,8 @@
+00001;CocaCola;$ 4000 pesos;Refrescante bebida gaseosa servida con hielo con hielo;Coca-cola;100
+00002;Limonada;$ 5000 pesos;Delicioso jugo natural a base de agua, hecho con limón y azucar natural;Limonada;100
+00003;Limonada cerezada;$ 6000 pesos;Exquisito refresco a base de agua heco con limones y cerezas, endulzada con azucar natural;LimonadaC;100
+00004;Club colombia;$ 5000 pesos;Delicioza cerveza con distintivo sabor colombiano;Club;100
+00005;Corona;$ 6000 pesos;Cerveza mexicana de alta calidad;Corona;100
+00006;Agua sin gas;$ 3000 pesos;Agua de manantial filtracion natural;Agua;100
+00007;Agua con gas;$ 3500 pesos;Delicioca agua burbujeante;AguaG;100
+00008;Agua de panela;$ 2000 pesos;Deliciocso refrezco hecho de panela, agua y limón;AguaP;100

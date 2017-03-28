@@ -1,0 +1,8 @@
+00100;Pudin de chocolate;$ 5000 pesos; delicioso postre cremosito hecho de cacao y chocolate;PudinC;500
+00200;Flan de caramelo;$ 7000 pesos; Manjar deulce y carameloso hecho a base de leche, huevo, azucar y limon;Flan;500
+00300;Napoleon;$ 8000 pesos; Nutritivo y delicioso postre hecho a base de leche y galletas;Napoleon;500
+00400;Red Velvet;$ 9000 pesos;Manjar rojo pasion hecho por capas cubierto por crema de chocolate blanco;Red;500
+00500;Tres leches;$ 7000 pesos; Delicioso pudin hecho a base de leche y merengue;Tres;500
+00600;Pudin de vainilla;$ 5000 pesos;Cremosa felicidad sabor vainilla al alcance de tu boca;PudinV;500
+00700;Cheesecake oreo;$ 9000 pesos; Porque todo es mejor con oreo encima;Oreo;500
+00800;Brownie con helado;$ 9000 pesos;La mejor combinacion creada por el hombre, mezclando la cremocidad del helado con el rico sabor del brownie;Brownie;500

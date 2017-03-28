@@ -1,0 +1,8 @@
+10000;Ajiaco;$ 9000 pesos;Guiso preparado a base de carne, papas, ají, cebollas y legumbres, proveniente del interior del pais;Ajiaco;4000
+20000;Caldo de costilla;$ 9000 pesos;Exquisito plato de costillas hervidas en agua con papa, ajo, cebolla y trocitos de cilantro;Caldo;3500
+30000;Punta gorda;$ 12000 pesos; Deliciosa y jugosa carne de res, acompañada con patacones;Punta;4000
+40000;Pollo en Champiñones;$ 18000 pesos;Delicioso pollo, bañado en salsa de champiñones servido con esparragos y arroz blanco;Pollo;5500
+50000;Spaghetti a la carbonara;$ 12000 pesos;Jugosos spaghettis hechos a base de crema de leche, huevos, tocineta y queso;Pasta;4500
+60000;Spagetti bolognesa;$ 12000 pesos;Deliciosos spaghettis bañados en salsa roja, preparados con carne molida y queso parmesano;Bolo;4500
+70000;Alitas BBQ;$ 13000 pesos;Jugosas alitas de pollo preparadas con salsa BBQ acompañadas con papas a la francesa;BBQ;5000
+80000;Paella;$ 18000 pesos; Manjar español hecho con arroz, pescado, marisco, ave, carne, verduras y legumbres;Paella;6500
